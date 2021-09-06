@@ -1,0 +1,103 @@
+.borde{
+    border: 1px solid black;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.cont-login{
+    padding-top: 7%;
+    padding-bottom: 7%;
+}
+
+.cuadro-login{
+    padding-top: 55px;
+    padding-bottom: 55px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+#bodyadmin{
+    background-color: #F26E51 ;
+}
+
+#bodylogin{
+    background-color: #F26E51 ;
+}
+
+.cuadro-login{
+    border: transparent;
+    background-color: #8A8686;
+    -webkit-box-shadow: 5px 5px 17px 5px #000000; 
+    box-shadow: 5px 5px 17px 5px #000000;
+    border-radius: 20px;
+}
+
+.card{
+    margin: 30px;
+    width: 200px;
+    height: 290px;
+    background-color: #ECE5E4;
+}
+.card:hover{
+    background-color: #CDC5C3;
+}
+
+
+#Outline{
+    width: 80px;
+    height: 80px;
+    margin-left: 0px;
+}
+
+
+.iconosheader{
+    margin-left: 15px;
+}
+
+#titulohead{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 60px;
+    font-weight: 260;
+    color: #FFF8F5;
+}
+
+.divicon{
+    padding-left: 0px;
+}
+
+.header{
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+.grupocartas{
+    padding-top: 25px;
+}
+.card-body{
+    padding-bottom: 10px;
+    border-radius: 40px;
+}
+
+.btn-primary{
+    margin-top: 25px;
+    color: #494848;
+    font-weight: 400;
+    border: transparent;
+    font-style: oblique;
+    
+    background-color: transparent;
+}
+.btn-primary:hover{
+    background-color: transparent;
+    font-size: 20px;
+}
+
+#titlogin{
+    color: #ECE5E4;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
